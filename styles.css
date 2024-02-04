@@ -4,7 +4,7 @@ body, div, h1, h2, ul, li, i, a, p, h3, footer {
     border: 0;
 }
 body {
-    background-image: url(background.jpg);
+    background-image: url(images/background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
