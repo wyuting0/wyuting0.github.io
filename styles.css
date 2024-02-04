@@ -149,7 +149,7 @@ margin-left: 20px;
         padding-top: 20px;
 }
 
-.accomplishments div {
+.education div {
     height: 100%;
     width: 90%;
     border-radius:0.5em;
@@ -157,7 +157,7 @@ margin-left: 20px;
     opacity: 0.7;
 }
 
-.accomplishments div p {
+.education div p {
         font-size: 20px;
         margin: 20px 20px 20px 20px;
 }
