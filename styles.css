@@ -193,3 +193,25 @@ footer p {
 p {
     line-height: 1.4;
 }
+
+a {
+    position: relative;
+    text-decoration: none;
+    color: white;
+}
+
+a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s ease-out;
+}
+
+a:hover::after {
+    width: 100%;
+}
