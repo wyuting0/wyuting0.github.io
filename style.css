@@ -75,6 +75,24 @@ p {
     text-decoration: underline;
 }
 
+.nav {
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.nav a {
+    margin-right: 20px;
+}
+
+.nav ul li i {
+    font-size: 20px;
+    padding-right:10px;
+}
+
+.nav ul li a {
+    font-size: 20px;
+}
+
 .icon {
     margin-top: 25px;
     margin-left: 30px;
@@ -175,6 +193,22 @@ p {
 
 .contact ul li:first-child {
     padding-top: 20px;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
 }
 
 footer p {
