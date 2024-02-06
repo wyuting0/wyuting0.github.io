@@ -97,6 +97,16 @@ p {
 
 .social_link a {
     margin: 0 40px 0 0;
+    text-decoration: none;
+    color: white;
+}
+
+.social_link a:hover {
+    color: pink;
+}
+
+.social_link a:hover::after {
+    width: 0;
 }
 
 .main_content {
