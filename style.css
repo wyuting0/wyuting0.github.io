@@ -31,7 +31,7 @@ body a {
 }
 
 body ul li {
-    list-style:none;
+    list-style: none;
     margin-top: 10px;
 }
 
@@ -71,26 +71,8 @@ p {
     font-size: 20px;
 }
 
-.profile_info h2 a:hover{
+.profile_info h2 a:hover {
     text-decoration: underline;
-}
-
-.nav {
-    margin-top: 25px;
-    margin-left: 30px;
-}
-
-.nav a {
-    margin-right: 20px;
-}
-
-.nav ul li i {
-    font-size: 20px;
-    padding-right:10px;
-}
-
-.nav ul li a {
-    font-size: 20px;
 }
 
 .icon {
@@ -100,7 +82,7 @@ p {
 
 .icon ul li i {
     font-size: 20px;
-    padding-right:10px;
+    padding-right: 10px;
 }
 
 .icon ul li a {
@@ -121,7 +103,7 @@ p {
     position: relative;
     width: 64%;
     height: 100%;
-    Float: right 
+    Float: right
 }
 
 .about h3 {
@@ -131,7 +113,7 @@ p {
 .about div {
     height: 100%;
     width: 90%;
-    border-radius:0.5em;
+    border-radius: 0.5em;
     background-color: transparent;
     opacity: 0.7;
 }
@@ -144,7 +126,7 @@ p {
 .skills ul {
     height: 100%;
     width: 60%;
-    border-radius:0.5em;
+    border-radius: 0.5em;
     background-color: transparent;
     opacity: 0.7;
     padding-bottom: 5px;
@@ -154,6 +136,7 @@ p {
     font-size: 20px;
     margin: 20px 20px 20px 20px;
 }
+
 .skills ul li:first-child {
     padding-top: 20px;
 }
@@ -161,7 +144,7 @@ p {
 .education div {
     height: 100%;
     width: 90%;
-    border-radius:0.5em;
+    border-radius: 0.5em;
     background-color: transparent;
     opacity: 0.7;
 }
@@ -193,22 +176,6 @@ p {
 
 .contact ul li:first-child {
     padding-top: 20px;
-}
-
-#page-container {
-    position: relative;
-    min-height: 100vh;
-}
-
-#content-wrap {
-    padding-bottom: 2.5rem;
-}
-
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 2.5rem;
 }
 
 footer p {
