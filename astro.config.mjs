@@ -29,8 +29,7 @@ if (isBuild) {
 
 export default defineConfig({
   server: { port: SERVER_PORT },
-  site: 'https://wyuting0.github.io',
-  base: '/wyuting0.github.io',
+  site: BASE_URL,
   integrations: [
     sitemap(),
     tailwind({
