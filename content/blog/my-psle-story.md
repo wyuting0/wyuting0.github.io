@@ -10,7 +10,7 @@ Picture this: a stressed-out kid drowning in a sea of textbooks, trying to memor
 
 Now, let's rewind a bit to the chaos that led to my anxiety build-up. Enter the realm of multiple tuitions and mountains of homework. My parents, in their well-intentioned pursuit of ensuring I had every tool for success, signed me up for what felt like a never-ending marathon of classes.
 
-From math to science, English to Chinese, my schedule resembled a masterclass in juggling commitments. Each tuition came with its set of textbooks, worksheets, and additional homework. Before I knew it, I found myself drowning in a sea of assignments, struggling to keep my head above water. Before I knew it, weekends became synonymous with study marathons rather than relaxation.
+From math to science, English to Chinese, my schedule resembled a masterclass in juggling commitments. Each tuition came with its set of textbooks, worksheets, and additional homework. Before I knew it, I found myself drowning in a sea of assignments, struggling to keep my head above water. Not only that, weekends became synonymous with study marathons rather than relaxation. In fact, I had 10 hours of tuition on Saturday.
 
 The long hours spent in tuition centres blurred into each other, leaving me with little time for anything else. No more Minecraft, and no more time to write recreationally.
 
