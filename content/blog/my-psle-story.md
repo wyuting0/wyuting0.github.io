@@ -14,7 +14,7 @@ Now, let's rewind a bit to the chaos that led to my anxiety build-up. Enter the 
 
 From math to science, English to Chinese, my schedule resembled a masterclass in juggling commitments. Each tuition came with its set of textbooks, worksheets, and additional homework. Before I knew it, I found myself drowning in a sea of assignments, struggling to keep my head above water. Not only that, weekends became synonymous with study marathons rather than relaxation. In fact, I had 10 hours of tuition on Saturday.
 
-The long hours spent in tuition centres blurred into each other, leaving me with little time for anything else. No more Minecraft, and no more time to write recreationally.
+The long hours spent in tuition centres blurred into each other, leaving me with little time for anything else.
 
 The pressure to excel in each subject became overwhelming. What started as a well-intentioned effort to prepare me for the PSLE had inadvertently turned into a recipe for burnout. I felt like a robot programmed to study, ticking off tasks from a never-ending to-do list. To be brutally honest, I didn't even feel like I learnt much during this period.
 
@@ -22,7 +22,7 @@ The pressure to excel in each subject became overwhelming. What started as a wel
 
 So, there I was, buried under a mountain of textbooks and drowning in assignments. But, you know what they say, *necessity is the mother of invention*. In my case, it was the necessity to maintain sanity in the midst of chaos.
 
-I stumbled upon a game-changer—effective time management. Instead of mindlessly putting in endless hours, I started breaking down my study sessions into manageable chunks. And, get this, I embraced the power of short breaks. A walk around the block, a quick chat with a friend, or even just staring into space for a few minutes became my secret sauce.
+I stumbled upon a game-changer—effective time management. Instead of mindlessly putting in endless hours, I started breaking down my study sessions into manageable chunks. A walk around the block, a cup of tea, or even just staring into space for a few minutes became my secret sauce. Sometimes, it's better to not leave all the relaxation to the end of the study session.
 
 Turns out, a well-placed break is like hitting the reset button for your brain. It not only improved my mood but also made my study sessions way more effective.
 
