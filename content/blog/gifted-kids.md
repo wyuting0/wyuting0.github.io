@@ -30,4 +30,4 @@ Looking back, I wish they had focused more on nurturing our interests and helpin
 
 ## Conclusion
 
-Being in the GEP had its perks, but it also had its downsides. If I could give advice to my younger self, I'd say, don't let the "gifted" label define you. It's okay not to have everything figured out, and it's okay to ask for help. As I recently completed the PSLE this year, I've come to realize that the journey matters just as much as the destination. After all, I wouldn't want to end up being a perfectionist burntout with depression, anxiety, unfufilled expections and no real strengths and interests outside of academics.
+Being in the GEP had its perks, but it also had its downsides. If I could give advice to my younger self, I'd say, don't let the "gifted" label define you. It's okay not to have everything figured out, and it's okay to ask for help. As I recently completed the PSLE this year, I've come to realize that the journey matters just as much as the destination. After all, I wouldn't want to end up being a burnt out perfectionist with depression, anxiety, unfufilled expections and no real strengths and interests outside of academics.
