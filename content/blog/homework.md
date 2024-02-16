@@ -18,7 +18,7 @@ In the 19th century, Horace Mann, a politician and education reformer, was intri
 
 In all honesty, many students aren't really learning from their homework. Instead, it has become a sprint to the finish line, a race to complete assignments as swiftly as possible, devoid of genuine understanding. The pressure to meet tight deadlines often leads to a mindless and lazy approach to homework. Quick completion becomes the goal, leaving little room for thoughtful engagement with the material. The essence of learning gets lost in the urgency to check off tasks and start the gaming session.
 
-But there's more to this story. With the digital age in full swing, a new breed of shortcuts has emerged that I find myself occasionally. Online resources, question scanners, and generative AI tools like ChatGPT and Bard have become the heroes of assignment completion. Rather than actually learning and trying the questions for themselves to identify weaknesses, many students turn to these tools for a quick fix, a copy-paste solution that bypasses the learning process.
+But there's more to this story. With the digital age in full swing, a new breed of shortcuts has emerged. Online resources, question scanners, and generative AI tools like ChatGPT and Bard have become the heroes of assignment completion. Rather than actually learning and trying the questions for themselves to identify weaknesses, many students turn to these tools for a quick fix, a copy-paste solution that bypasses the learning process.
 
 Nobody truly learns from homework.
 
