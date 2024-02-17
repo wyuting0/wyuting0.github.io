@@ -26,7 +26,7 @@ In recognizing the thief, I was on the first step to redemption. I came to the u
 
 It wasn’t until I reached the bottom that I realized I understood how lazy took a toll on my life. I stared at my reflection in the mirror and realized that the result was the outcome of my own decisions – unrealized dreams, unachieved potential, and the heavy burden of regret. This is where I was – just another 12-year-old boy, with nothing special outside of academics. I knew I had to stop being the basic broad that I was. This moment was the beginning of a fundamental change. 
 
-The choice to free myself from the lethargy that was holding me back was not easy. It pushed me out of my comfort zone and made me question conventional ways. I began to set realistic goals, no more being overwhelmed by the grandeur of my dreams. Small, incremental steps created the foundation of a new beginning.
+The choice to free myself from the lethargy that was holding me back was not easy. It pushed me out of my comfort zone and made me question conventional ways. I began to set realistic goals, no more being overwhelmed by the grandeur of my dreams. Small, incremental steps created the foundation of a new beginning. 
 
 However, it wasn't only about becoming less lazy; it was about becoming more. Working harder, more disciplined, and more responsible. I have accepted the idea of delayed gratification, knowing that the denial of short-term comfort can lead to long-term gains. The mirror no longer reflected my regrets; it had become my creative outlet, a daily reminder of the person I was becoming. I wanted to become the cool kid, maintaining a flawless balance among my interests, social life, and academics.
 
