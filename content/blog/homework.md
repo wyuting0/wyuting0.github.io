@@ -18,19 +18,13 @@ In the 19th century, Horace Mann, a politician and education reformer, was intri
 
 In all honesty, many students aren't really learning from their homework. Instead, it has become a sprint to the finish line, a race to complete assignments as swiftly as possible, devoid of genuine understanding. The pressure to meet tight deadlines often leads to a mindless and lazy approach to homework. Quick completion becomes the goal, leaving little room for thoughtful engagement with the material. The essence of learning gets lost in the urgency to check off tasks and start the gaming session.
 
-But there's more to this story. With the digital age in full swing, a new breed of shortcuts has emerged. Online resources, question scanners, and generative AI tools like ChatGPT and Bard have become the heroes of assignment completion. Rather than actually learning and trying the questions for themselves to identify weaknesses, many students turn to these tools for a quick fix, a copy-paste solution that bypasses the learning process.
-
-Nobody truly learns from homework.
+The constant rush to complete assignments leaves students without the opportunity to absorb and internalize information. This rushed approach can create an aversion to learning, as the association between stress and academic tasks becomes ingrained in their minds. Consequently, instead of fostering a love for knowledge, homework turns into a source of frustration and anxiety for many students.
 
 ## It's a Lose-lose Situation
 
-External factors, like mandatory tuitions and the lack of necessary resources, further complicate the picture. The toll on mental health is evident, with stress and anxiety overshadowing the joy of learning. Sacrifices made for grades and a diminishing passion for learning showcase the stark challenges students face in this demanding environment. Every morning, my classmates and I are in a rush to ask about homework, and it often turns into a last-minute scramble. After school, there's hardly any time to relax because of all the homework. Teachers assign homework without considering our CCA hours or the homework from other subjects. It's really frustrating for everyone in the class.
+External factors, such as mandatory tuitions and the lack of necessary resources, complicate the situation further. The toll on mental health is clear, with stress and anxiety overshadowing the joy of learning. Sacrifices made for grades and a diminishing passion for learning highlight the tough challenges students face in this demanding environment. Every morning, my classmates and I rush to ask about homework, often turning it into a last-minute scramble. After school, there's hardly any time to relax due to the overwhelming amount of homework. Teachers assign tasks without considering our CCA hours or the workload from other subjects. It is really frustrating for everyone in the class.
 
-Teachers are caught in the same challenging situation as students. They are constantly collecting and grading more assignments, which takes a toll on their well-being and adds stress to their already demanding profession. Balancing the task of grading involves providing helpful feedback, meeting deadlines, and maintaining assessment quality. The pressure to manage extensive homework loads not only takes up time but also hinders the creation of an engaging and interactive learning atmosphere.
-
-## Reimagination
-
-I strongly believe that homework should be removed for good. Taking away homework could make things better for students and teachers, giving them a chance to focus on learning and enjoying school. Without the burden of homework, everyone's mental health could improve. We could focus on engaging in interesting class conversations and truly enjoy the learning process without facing constant discipline for not finishing our homework or stressing over it all the time.
+Teachers also face challenges in this demanding situation. They constantly collect and grade numerous assignments, affecting their well-being and adding stress to their already demanding profession. Balancing the task of grading involves providing helpful feedback, meeting deadlines, and maintaining assessment quality. The pressure to manage extensive homework loads not only consumes time but also hampers the creation of an engaging and interactive learning atmosphere. As a result, both students and teachers find themselves struggling in this challenging educational environment.
 
 ## Conclusion
 
