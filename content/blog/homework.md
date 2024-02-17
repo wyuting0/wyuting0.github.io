@@ -6,7 +6,7 @@ description: The case against homework.
 date: 2023-08-16
 ---
 
-Have you ever thought of the essence of studying? Are those assignments that keep on piling up, the late nights spent struggling to get through them, and the seemingly never-ending cycle of work contributing anything to education or are they just a burden to students’ life? I sure have. Whether it is tuition or school work, I can think of a million reasons why there shouldn’t be any homework in the first place. Every hour comes with an irritating question that makes me tremble with fear every single time it pops into my mind; did I complete all my homework? The mere thought of lingers like a ghoul haunting each moment especially during weekends.
+Have you ever thought of the point of homework? Are those assignments that keep on piling up, the late nights spent struggling to get through them, and the seemingly never-ending cycle of work contributing anything to education or are they just a burden to students’ life? I sure have. Whether it is tuition or school work, I can think of a million reasons why there shouldn’t be any homework in the first place. Every hour comes with an irritating question that makes me tremble with fear every single time it pops into my mind; did I complete all my homework? The mere thought of lingers like a ghoul haunting each moment especially during weekends.
 
 ## Evolution of Homework
 
