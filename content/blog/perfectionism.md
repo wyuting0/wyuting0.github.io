@@ -6,7 +6,7 @@ description: Perfectionism.
 date: 2024-02-08
 ---
 
-The past couple of weeks I’ve been reflecting about perfectionism all the time, and to be honest, I skipped my monthly commitment of writing one post per month for my blog.
+The past couple of weeks I’ve been reflecting about perfectionism all the time as I've come to the realisation I skipped my monthly commitment of writing one post per month for my blog.
 
 The aim was to “Post one thing per week, regardless of what it was, to just create.”, but I struggled to execute this. Why? Perfectionism. I was so eager for my content to be the best. The perfect feeling, the perfect words. There was just one problem. Perfection is unachievable. It is not without saying that my wish to make a post alone stopped me for another step even to write my third one. Struggle to come up with a great idea.
 
