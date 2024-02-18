@@ -8,7 +8,7 @@ date: 2024-02-08
 
 The past couple of weeks I’ve been reflecting about perfectionism all the time as I've come to the realisation I skipped my monthly commitment of writing one post per month for my blog. This is especially frustrating because I've actually been actively working on various writing projects lately, but none of the blog posts I've created so far meet the standards I deem publish-worthy. 
 
-The aim was to “Post one thing per month, regardless of what it was, to just create.”, but I struggled to do this. Why? Perfectionism. I was so eager for my content to be the best. The perfect feeling, the perfect words. There was just one problem. Perfection is unachievable. It is not without saying that my wish to make a post alone stopped me for another step even to write my third one. Struggle to come up with a great idea.
+The goal was to "Post something every month, whatever it might be, just for the sake of creating." However, I found it hard to stick to this. Why? Perfectionism. I was too hung up on making my content the absolute best. The perfect feeling, the perfect words. There was just one problem. Perfection is unachievable. I just couldn't find that perfect idea.
 
 "Perfection is the enemy of progress" is a truism so splendid and fundamental that it explains many situations in our existence. Today we debate the destructive features of perfectionism and look at how to profit from the process of progress that is the key to a more satisfying and successful life.
 
