@@ -16,7 +16,7 @@ As the educational landscape evolved, so did the perception of homework. Initial
 
 ## The Burden
 
-Despite being assigned to help reinforce classroom learning, homework often ends up becoming an overwhelming burden on students. There are numerous problems that arise from this academic excellence pressure such as stress and anxiety among others which leads to poor health condition. Students have to deal with different subjects at once, participate in extracurricular activities and perform personal tasks – all these leave no time for rest and entertainment purposes. This is very important since there is need to know whether the weight carried by homework outweighs any benefits derived from it when looking at matters from that angle.
+Despite being assigned to help reinforce classroom learning, homework often ends up becoming an overwhelming burden on students. There are numerous problems that arise from this academic excellence pressure such as stress and anxiety among others which leads to poor health condition. Students have to deal with different subjects at once, participate in extracurricular activities and perform personal tasks—all these leave no time for rest and entertainment purposes. This is very important since there is need to know whether the weight carried by homework outweighs any benefits derived from it when looking at matters from that angle.
 
 Research on homework has produced contradictory results over time. In certain studies some indicate that small doses of homework can increase comprehension and performance whereas huge amounts may harm. In addition, the quality of homework assignments as well as how they match up with instructional goals will be vital in determining whether or not they are impactful.
 

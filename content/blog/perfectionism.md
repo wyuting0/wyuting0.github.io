@@ -14,15 +14,15 @@ The goal was to "Post something every month, whatever it might be, just for the 
 
 ## Progress Over Perfection
 
-Perfectionism is like a constraint disease that makes our movement difficult. The anxiety that we will not be perfect from the beginning of the project often makes us refrain even from starting it or aiming for a goal. With this outlook, the essence of the maxim "Practice makes perfect" is contradicted since perfect practice becomes an obstruction to the very practice that leads to improvement.
+Perfectionism is like a constraint disease that makes our movement difficult. The anxiety that we will not be perfect from the beginning of the project often makes us refrain even from starting it or aiming for a goal. With this outlook, the essence of the saying "Practice makes perfect" is contradicted since perfect practice becomes an obstruction to the very practice that leads to improvement.
 
-For instance, the case of Thomas Edison, who allegedly failed over 10,000 times but eventually managed to invent the lightbulb. If Edison got stuck on building the perfect bulb from the beginning, the wonderful world of electric illumination probably would not have happened. Practically the same rule applies to everyone–asking for perfection the first time is not only impractical but also creates obstacles in learning process.
+For instance, the case of Thomas Edison, who allegedly failed over 10,000 times but eventually managed to invent the lightbulb. If Edison got stuck on building the perfect bulb from the beginning, the wonderful world of electric illumination probably would not have happened. Practically the same rule applies to everyone—asking for perfection the first time is not only impractical but also creates obstacles in learning process.
 
 ## Enjoy the Journey
 
 Overcoming perfectionism involves the embracement of the journey itself as progress. Life is not only about reaching milestones and creating the best deliverables; it is about the daily episodes that makes the quilt of our existence. Your graduation, wedding, or the birth of the first child are memorable events, but they are hardly long-lasting.
 
-Contrary to that, our lives are made of an infinite number of tiny moments–the usual coffee with a friend, the time spent with beloved ones, step by step work in the creative projects. These activities are the things that we do each day that are often not considered as part of the pursuit of perfection but actually make up most of our daily life. Finding joy in the journey, despite not being able to achieve perfection, is what makes us realise that progress is.
+Contrary to that, our lives are made of an infinite number of tiny moments—the usual coffee with a friend, the time spent with beloved ones, step by step work in the creative projects. These activities are the things that we do each day that are often not considered as part of the pursuit of perfection but actually make up most of our daily life. Finding joy in the journey, despite not being able to achieve perfection, is what makes us realise that progress is.
 
 Routine life activities comprise the major part and high points form a tiny fraction of our lives. By recognizing and accepting that perfection is an illusive target, we become liberated from the bondage of perfectionism. Nevertheless, progress is attainable and entails personal satisfaction and development.
 
