@@ -3,7 +3,7 @@ external: false
 draft: false
 title: Perfectionism
 description: Perfectionism.
-date: 2023-02-10
+date: 2024-02-08
 ---
 
 The past couple of weeks I’ve been reflecting about perfectionism all the time, and to be honest, I skipped my monthly commitment of writing one post per month for my blog.
