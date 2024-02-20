@@ -6,7 +6,7 @@ description: Stop wasting your time.
 date: 2024-02-20
 ---
 
-Life, in its fast-paced and fast-changing nature, almost makes one a victim of mindless activities and distractions, which are lost moments we can never regain. Time is a limited asset, arguably every human's most priceless one, and when it is lost once, it never returns. Therefore, it is quite strange that usually we prefer to waste this priceless commodity on trivial stuff. In the last year, it came to my knowledge that too much use of YouTube and gaming had been taken over a considerable time of my days. However, it was only when I decided to work hard and express my thoughts through self-reflection that I confirmed the need to stop such time-wasting activities. Learning to accept the present is a focus that has been put aside so that I can live a life that is more enjoyable and satisfying. Whether you spend too much time on gaming, watching TV, or scrolling on social media, there is always a way out.
+Life, in its fast-paced and fast-changing nature, almost makes one a victim of mindless activities and distractions, which are lost moments we can never regain. Time is a limited asset, arguably every human's most priceless one, and when it is lost once, it never returns. Therefore, it is quite strange that usually we prefer to waste this priceless commodity on trivial stuff. In the last year, it came to my attention that my use of YouTube and gaming had been taking up a considerable amount of my time. Yet, through clear understanding and a commitment to self-improvement, I managed to overcome this habit relatively easily. Whether you spend too much time on gaming, watching TV, or scrolling on social media, there is always a way out.
 
 ## Life is Fleeting
 
