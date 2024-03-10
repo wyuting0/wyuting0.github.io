@@ -1,8 +1,8 @@
 ---
 external: false
 draft: false
-title: Stop Wasting Your Time
-description: Stop wasting your time.
+title: Time
+description: Time.
 date: 2024-02-20
 ---
 
