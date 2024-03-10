@@ -24,6 +24,8 @@ The activities during day 1 were fairly bland: we had some team bulding activiti
 
 ## Mass Game & Campfire: Day 2
 
+*March 7, 2024*
+
 The next day at SOAC'24 kicked off at 6am, when the facilitators went to our respective dormitories to wake us up. For some reason, we had an hour and a half marked as "rise and shine" on the schedule. So, after I finished brushing my teeth, I had a solid hour to have a chat with the facilitators and discuss our plans for the day.
 
 After we had breakfast, it was time for the mass game—where we competed with other consortiums in order to obtain as many flags as possible. It was an opportunity for us to have fun while building strong bonds with others. Unfortunately, iSpark ended up with the least flags: a measly total of **9**. I admit it was a bit embarrassing, but we gave it our all, and that's what counts.
@@ -33,6 +35,8 @@ Afterwards, it was finally time for the most anticipated and hyped-up activity o
 ![Campfire](https://github.com/wyuting0/wyuting0.github.io/blob/main/public/images/campfire.jpg?raw=true "Campfire")
 
 ## Strike Camp: Day 3
+
+*March 8, 2024*
 
 The the 3rd and final day at SOAC'24 started at 5am, when the facilitators, once again, went to our respective dormitories to wake us up. This time, we only has half an hour to get ready for the day. As I had already packed my bags the previous night, I did not need to do so. However, my other classmates spent their morning packing their bags. I was assigned the task of bring a trash bag to each dormitory to collect their trash. This process took around 30 minutes and was incredibly boring.
 
