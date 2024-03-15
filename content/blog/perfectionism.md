@@ -10,11 +10,11 @@ The past couple of weeks I’ve been reflecting about perfectionism all the time
 
 The goal was to "Post something every month, whatever it might be, just for the sake of creating." However, I found it hard to stick to this. Why? Perfectionism. I was too hung up on making my content the absolute best. The perfect feeling, the perfect words. There was just one problem. Perfection is unachievable. I just couldn't find that perfect idea.
 
-"Perfection is the enemy of progress" is a truism so splendid and fundamental that it explains many situations in our existence. Today we debate the destructive features of perfectionism and look at how to profit from the process of progress that is the key to a more satisfying and successful life.
+"Perfection is the enemy of progress" is a truism so splendid and fundamental that it explains many situations in our existence. This saying helped me to realise the destructive features of perfectionism and look at how to profit from the process of progress that is the key to a more satisfying and successful life.
 
 ## Progress Over Perfection
 
-Perfectionism is like a constraint disease that makes our movement difficult. The anxiety that we will not be perfect from the beginning of the project often makes us refrain even from starting it or aiming for a goal. With this outlook, the essence of the saying "Practice makes perfect" is contradicted since perfect practice becomes an obstruction to the very practice that leads to improvement.
+Perfectionism is like a constraint disease that makes our movement difficult. The anxiety that we will not be perfect from the beginning of the project often makes us refrain even from starting it or aiming for a goal. With this outlook, the idea of the saying "practice makes perfect" is contradicted since perfect practice becomes an obstruction to the very practice that leads to improvement.
 
 For instance, the case of Thomas Edison, who allegedly failed over 10,000 times but eventually managed to invent the lightbulb. If Edison got stuck on building the perfect bulb from the beginning, the wonderful world of electric illumination probably would not have happened. Practically the same rule applies to everyone—asking for perfection the first time is not only impractical but also creates obstacles in learning process.
 
