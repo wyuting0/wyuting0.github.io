@@ -10,7 +10,7 @@ The past couple of weeks I’ve been reflecting about perfectionism all the time
 
 The goal was to "Post something every month, whatever it might be, just for the sake of creating." However, I found it hard to stick to this. Why? Perfectionism. I was too hung up on making my content the absolute best. The perfect feeling, the perfect words. There was just one problem. Perfection is unachievable. I just couldn't find that perfect idea.
 
-"Perfection is the enemy of progress" is a truism so splendid and fundamental that it explains many situations in our existence. This saying helped me to realise the destructive features of perfectionism and look at how to profit from the process of progress that is the key to a more satisfying and successful life.
+"Perfection is the enemy of progress" is a truism so splendid and fundamental that it explains many situations in our existence. This saying helped me realise the destructive features of perfectionism and look at how to profit from the process of progress, the key to a more satisfying and successful life.
 
 ## Progress Over Perfection
 
