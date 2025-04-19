@@ -88,7 +88,7 @@ export const aboutPageContent: AboutPageContent = {
     description: `
 My name is Yuting and I am a high school student from Singapore.
 <br/><br/>
-I used to code a lot but I've recently shifted my attention to other interests. Nowadays, I spend most of time studying, cubing and listening to music. <br/><br/>
+I used to code quite a lot but I've recently shifted my attention to other interests. Nowadays, I spend most of time studying, cubing and listening to music. <br/><br/>
 On this website, I write blog posts about my experiences and sometimes other things whenever I feel like it. `, // Markdown is supported
     image_l: {
       url: "/clocktower.jpg",
