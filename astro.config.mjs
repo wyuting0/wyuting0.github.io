@@ -10,7 +10,7 @@ export default defineConfig({
   base: "/",
   output: "static",
   integrations: [tailwind(), icon()],
-  output: "server",
+  output: "static",
   adapter: node({
     mode: "standalone",
   }),
