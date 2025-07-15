@@ -1,0 +1,32 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]          # or master, if that’s your default branch
+  workflow_dispatch:          # lets you run the action manually
+
+permissions:                  # required for Pages + Actions
+  contents: read
+  pages: write
+  id-token: write
+  actions: read               # <- needed for deploy-pages@v4
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: withastro/action@v3   # builds + uploads ./dist automatically
+        with:
+          node-version: 20
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages           # tells GH this job publishes Pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
