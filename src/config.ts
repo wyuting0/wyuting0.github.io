@@ -100,7 +100,7 @@ On this website, I write blog posts about my experiences and sometimes other thi
     },
   },
   work: {
-    description: `Here are the schools I have attended or am currently attending.`, // Markdown is supported
+    description: `Here are the schools I have attended or am currently attending:`, // Markdown is supported
     items: [
       {
         title: "Hwa Chong Institution",
@@ -132,7 +132,7 @@ On this website, I write blog posts about my experiences and sometimes other thi
     ],
   },
   connect: {
-    description: `Reach out or connect with me via the platforms below.`, // Markdown is supported
+    description: `Reach out or connect with me via the platforms below:`, // Markdown is supported
     links: [
       {
         title: "Instagram",
