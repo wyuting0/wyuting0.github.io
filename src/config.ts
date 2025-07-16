@@ -11,7 +11,7 @@ import type {
 export const identity: Identity = {
   name: "Yuting",
   logo: "/logo.png",
-  email: "contact.yuting@gmail.com",
+  email: "wyuting2011@gmail.com",
 };
 
 export const navBarLinks: NavBarLink[] = [
@@ -42,7 +42,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     title: "Mail",
-    url: "mailto:contact.yuting@gmail.com",
+    url: "mailto:wyuting2011@gmail.com",
     icon: "fa-solid:envelope",
   },
 ];
@@ -154,7 +154,7 @@ On this website, I write blog posts about my experiences and sometimes other thi
       },
       {
         title: "Mail",
-        url: "mailto:contact.yuting@gmail.com",
+        url: "mailto:wyuting2011@gmail.com",
         icon: "fa-solid:envelope",
       },
     ],
