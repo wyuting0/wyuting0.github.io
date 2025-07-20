@@ -57,7 +57,7 @@ export const homePageContent: HomePageContent = {
   },
   role: "Student",
   description:
-    "Hello there! I am Yuting.",
+    "Hi! My name is Yuting.",
   socialLinks: socialLinks,
   links: [
     {
@@ -80,7 +80,7 @@ export const aboutPageContent: AboutPageContent = {
   seo: {
     title: "About | Yuting",
     description:
-      "Full time student from Germany who loves building cool things using code.",
+      "Some information about me.",
     image: identity.logo,
   },
   subtitle: "Some information about me.",
