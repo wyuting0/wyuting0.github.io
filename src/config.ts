@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://yuting.is-not-a.dev/', // Site domain
+    website: 'https://yuting.is-a.dev/', // Site domain
     title: 'Yuting', // Site title
     author: 'Yuting', // Author name
     description: 'My website.', // Site description
